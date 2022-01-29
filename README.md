@@ -1,3 +1,3 @@
 # exercise
 second repo
-repo made for exercise
+repo made for exercise!
